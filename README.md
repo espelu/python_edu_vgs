@@ -6,7 +6,7 @@ Programmeringskurs i Python for lærere ved Hvam VGS. Kurset er rettet mot under
   3. Læreren skal ha en formening om hvordan man skal implementere programmering i undervisningssammenheng.
 
 ## Velkommen til programmeringens svar på OneDrive/Google Drive/Dropbox - GitHub
-Denne repositorien (mappen), *espelu/python_edu_vgs*, inneholder nødvendig informasjon og filer til programmeringskurset på planleggingsdagen. Uten å gå for mye i detalj, så er GitHub en platform som legger til rette for utveksling og samhandling av kode for utviklere. 
+Denne repositorien (mappen), *espelu/python_edu_vgs*, inneholder nødvendig informasjon og filer til programmeringskurset. Uten å gå for mye i detalj, så er GitHub en platform som legger til rette for utveksling og samhandling av kode for utviklere. 
 
 ## Kompetansemål
 Problemløsing og digitale verktøy har lenge vært sentrale kompetansemål i utdanningen på videregående skole. Nå er også algoritmisk tenking og programmering nevnt i kompetansemålene til flere fag. Kilde: https://sokeresultat.udir.no/finn-lareplan.html   
