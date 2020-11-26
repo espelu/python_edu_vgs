@@ -18,7 +18,7 @@ Python er ett av flere programmeringsspråk. Det går for å være et av de mest
 Slik som vi kan skrive artikler og annen tekst i ulike programmer/teksteditorer (eks. Microsoft Word, Google Docs, Writer, Latex), kan vi skrive kode i ulike programmer/ IDEs(Integrated development environment). Vi har valgt Anaconda's kodeeditor Spyder som vårt program til å skrive Pythonkode i.
 
 1. Gå inn på https://www.anaconda.com/products/individual
-2. Last ned Anaconda 64-Bit-versjonen for ditt operativsystem, Windows/Linux/Mac.
+2. Last ned Anaconda 64-Bit-versjonen for ditt operativsystem, Windows/Linux/Mac. (Står nederst på siden)
 3. Åpne filen og installer programmet
 4. Åpne programmet "Anaconda Navigator"
 5. Finn "Spyder" og trykk "Launch".
