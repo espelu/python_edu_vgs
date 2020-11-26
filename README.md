@@ -1,22 +1,29 @@
 # python_edu_vgs
-Python programmeringskurs for lærere rettet mot undervisning av kompetansemålene i læreplanen for videregående skole.
+Programmeringskurs i Python for lærere ved Hvam VGS. Rettet mot undervisning av kompetansemålene i læreplanen for realfag på videregående skole.
 
 ## Velkommen til programmeringens svar på OneDrive/Google Drive/Dropbox - GitHub
-Denne repositorien (mappen), espelu/python_edu_vgs, inneholder nødvendig informasjon og filer rettet mot Pythonkurs for videregående skole. Uten å gå for mye i detalj, så er GitHub er en platform som legger til rette for utveksling og samhandling av kode for utviklere. 
+Denne repositorien (mappen), "espelu/python_edu_vgs", inneholder nødvendig informasjon og filer til programmeringskurset på planleggingsdagen. Uten å gå for mye i detalj, så er GitHub er en platform som legger til rette for utveksling og samhandling av kode for utviklere. 
+
+## Kompetansemål
+Problemløsing og digitale verktøy har lenge vært sentrale kompetansemål i utdanningen på videregående skole. Nå er også algoritmisk tenking og programmering nevnt i kompetansemålene til flere fag. Kilde: https://sokeresultat.udir.no/finn-lareplan.html   
 
 ## Python
-Python er ett av flere programmeringsspråk. Går for å være et av de mest brukervennlige og populære språk i verden i dag. 
+Python er ett av flere programmeringsspråk. Det går for å være et av de mest brukervennlige og populære språk i verden i dag. Flere norske læreplattformer benytter seg av Python, derfor blir Python det naturlig valget også på Hvam VGS.  
 
 ## Innstallering
+Slik som vi kan skrive artikler og annen tekst i ulike programmer/teksteditorer (eks. Microsoft Word, Google Docs, Writer, Latex), kan vi skrive kode i ulike programmer/ IDEs(Integrated development environment). Vi har valgt Anaconda's kodeeditor Spyder som vårt program til å skrive Pythonkode i.
 
+1. Gå inn på https://www.anaconda.com/products/individual
+2. Last ned Anaconda 64-Bit-versjonen for ditt operativsystem, Windows/Linux/Mac.
+3. Åpne filen og installer programmet
+4. Åpne programmet "Anaconda Navigator"
+5. Finn "Spyder" og trykk "Launch".
 
-Slik som vi kan skrive artikler i ulike programmer/teksteditorer (eks. Microsoft Word, Google Docs, Writer, Latex), kan vi skrive kode i ulike programmer/ IDEs(Integrated development environment). Vi har valgt og bruke Anaconda's kodeeditor Sypder
-
-1. Gå inn på anaconda.com
-2. Download for Windows/Linux/Mac
 ## Eksempel på kode
-## Oppgaver
-## Læreplattformer
-## Læremål
+Vil bli lagt ut etter kurset.
 
-- Sivilingeniør Espen Lunden, November 2020
+## Læreplattformer
+Vil bli lagt ut etter kurset.
+
+
+- Espen Lunden, November 2020
