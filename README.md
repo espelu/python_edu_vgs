@@ -1,7 +1,7 @@
 # python_edu_vgs
 Programmeringskurs i Python for lærere ved Hvam VGS. Kurset er rettet mot undervisning av kompetansemålene i læreplanen for ulike realfag på videregående skole.
 ### Mål for kurset:
-  1. Læreren skal med egne ord kunne forklare hva programmering og algoritmer er, og gi eksempler på hva Python kan brukes til.
+  - [] Læreren skal med egne ord kunne forklare hva programmering og algoritmer er, og gi eksempler på hva Python kan brukes til.
   2. Læreren skal med veiledning kunne skrive et Python-program i Spyder som tar to variabler, x og y, og skriver ut summen av disse med en tekst: “Summen av x+y er __”.
   3. Læreren skal ha en formening om hvordan man skal implementere programmering i undervisningssammenheng.
 
