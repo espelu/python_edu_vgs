@@ -1,9 +1,16 @@
 # python_edu_vgs
-Programmeringskurs i Python for lærere ved Hvam VGS. Kurset er rettet mot undervisning av kompetansemålene i læreplanen for ulike realfag på videregående skole.
+Programmeringskurs i Python for lærere ved Hvam VGS. Kurset er rettet mot undervisning av kompetansemålene i læreplanen for ulike realfag på videregående skole. Dette kurset har til hensikt å gi lærere verktøyene og den nødvendige kompetansen for å utvikle kode i Python. Det er ikke mulig å lære Python på 90 minutter, men om man får et kart og en startkurs, så er veien til mål lettere å nå.
+
 ### Mål for kurset:
 - [ ] Læreren skal med egne ord kunne forklare hva programmering og algoritmer er, og gi eksempler på hva Python kan brukes til.
 - [ ] Læreren skal med veiledning kunne skrive et Python-program i Spyder som tar to variabler, x og y, og skriver ut summen av disse med en tekst: “Summen av x+y er __”.
 - [ ] Læreren skal ha en formening om hvordan man skal implementere programmering i undervisningssammenheng.
+
+### Plan for kurset:
+1: Jeg gir en rask demo av hvilke muligheter som finnes med Python!
+2: Tar opp læremål og mine refleksjoner om hvorfor det er viktig for elevene å få et innsyn i programmering.
+3: Jeg forklarer og demonstrerer programmeringsmiljøet, Spyder. Derrettet går vi gjennom ett felles eksempel. Derfor viktig at alle har lastet ned Anaconda på forhånd.
+4: Jeg kommer med forslag til hvordan man kan undervise elevene. Dette diskuteres i fellesskap. Jeg deler læreplattformer for Python med ulike oppgaver ++. 
 
 ## Velkommen til programmeringens svar på OneDrive/Google Drive/Dropbox - GitHub
 Denne repositorien (mappen), *espelu/python_edu_vgs*, inneholder nødvendig informasjon og filer til programmeringskurset. Uten å gå for mye i detalj, så er GitHub en platform som legger til rette for utveksling og samhandling av kode for utviklere. 
