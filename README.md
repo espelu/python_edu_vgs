@@ -12,9 +12,9 @@ Denne repositorien (mappen), *espelu/python_edu_vgs*, inneholder nødvendig info
 Problemløsing og digitale verktøy har lenge vært sentrale kompetansemål i utdanningen på videregående skole. Nå er også algoritmisk tenking og programmering nevnt i kompetansemålene til flere fag. Kilde: https://sokeresultat.udir.no/finn-lareplan.html   
 
 ## Python
-Python er ett av flere programmeringsspråk. Det går for å være et av de mest brukervennlige og populære språk i verden i dag. Flere norske læreplattformer benytter seg av Python, derfor blir Python det naturlig valget også på Hvam VGS.  
+Python er ett av flere programmeringsspråk, og går for å være et av de mest brukervennlige og populære språk i dag. Flere norske læreplattformer benytter seg av Python, derfor blir Python det naturlig valget også på Hvam VGS.  
 
-## Innstallering
+## Installering
 Slik som vi kan skrive artikler og annen tekst i ulike programmer/teksteditorer (eks. Microsoft Word, Google Docs, Writer, Latex), kan vi skrive kode i ulike programmer/ IDEs(Integrated development environment). Vi har valgt Anaconda's kodeeditor Spyder som vårt program til å skrive Pythonkode i.
 
 1. Gå inn på https://www.anaconda.com/products/individual
