@@ -38,3 +38,9 @@ Vil bli lagt ut etter kurset.
 
 
 - Espen Lunden, November 2020
+
+
+Linker til yumi:
+
+https://campaign.abb.com/e/501021/stall-RobotStudio-2021-1-2-zip/t95p5x/1375117799?h=5el_qe1iJ5rRCxLMKGAk0n3CtDhyPYN_tteG52INY28
+
